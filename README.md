@@ -39,4 +39,8 @@ Abasienyene Lawrence - Cohort 9
 
 email: abasonform@gmail.com
 
+Phone: +234(0)81-348-033-10
+
+Facebook: Abasienyene Lawrence
+
 Twitter: https://twitter.com/akpan_ndidia
