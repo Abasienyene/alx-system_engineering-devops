@@ -3,12 +3,12 @@
 ## Description and Introduction 
 At Alx School, we learn by doing. We have projects everyday that we have to push on GitHub in order for an automatic review to be done.
 This repository contains directories each corresponding to a system engineering or DevOps project.
-These projects are part of the Alx School year 1 curriculum.
+These projects are part of the Alx Scholarship program for Afticans.
 In these projects, we cover everything from the basics of the Linux Shell, Bash commands, Bash scripting, networking, APIs, and web-stack debugging to more advanced topics.
 
-## Introduction to DEVOPS?
+### Introduction to DEVOPS?
 
-### Meaning of DevOps
+#### Meaning of DevOps
 
 DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
 (source: "https://aws.amazon.com/devops/what-is-devops")
