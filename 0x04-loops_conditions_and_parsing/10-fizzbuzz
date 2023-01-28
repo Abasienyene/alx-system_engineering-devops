@@ -13,5 +13,5 @@ do
 	echo "Fizz"
     else
 	echo "$i"
-    fi
+    if
 done
